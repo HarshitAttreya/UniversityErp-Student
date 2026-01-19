@@ -9,7 +9,7 @@ import java.util.List;
 public class StudentService {
 
     @Autowired
-    private studentRepositary studentRepo;
+    private studentRepository studentRepo;
     public List<Student> getAllStudents(){
 
     }
